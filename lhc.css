@@ -1,0 +1,28 @@
+/*this is an external css*/
+h1{
+	font-family: Tahoma;
+	color: black; 
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px #9D74E7;
+	text-align: center;
+}
+p{
+	text-indent: 25px;
+	color: black;
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+body{
+	background-color: #F3F6C6;
+}
+img{
+	/*border: solid;
+  	border-color: black;*/
+  	float: right;
+}
+small{
+	color: black;
+}
